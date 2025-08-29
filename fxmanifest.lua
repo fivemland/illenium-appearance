@@ -94,3 +94,6 @@ files {
 }
 
 ui_page "web/dist/index.html"
+
+provide 'esx_skin'
+
